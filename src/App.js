@@ -22,7 +22,7 @@ function App() {
       <HashRouter>
         <Header Slogo={Slogo}/>
         <Routes>
-          <Route path='/Semo-Electrical-Engineering' element={<Homepage  Slogo2={Slogo2}/>}/>
+          <Route path='/Semo-Electrical-Engineering/' element={<Homepage  Slogo2={Slogo2}/>}/>
           <Route path='/Homepage' element={<Homepage  Slogo2={Slogo2}/>}/>
           <Route path='/Projects' element={<Projects projectlist={projectlist}/>}/>
           <Route path='/Contact' element={<Contact/>}/>
