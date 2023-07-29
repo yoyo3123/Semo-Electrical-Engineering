@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Semo-Electrical-Engineering/static/css/main.a5f7ade7.css",
-    "main.js": "/Semo-Electrical-Engineering/static/js/main.bbcdb70b.js",
+    "main.js": "/Semo-Electrical-Engineering/static/js/main.cfca89d7.js",
     "static/js/787.ab93ecc4.chunk.js": "/Semo-Electrical-Engineering/static/js/787.ab93ecc4.chunk.js",
     "static/media/crisscross.jpeg": "/Semo-Electrical-Engineering/static/media/crisscross.f4d12171d4892b2b1340.jpeg",
     "static/media/Semo_logo2.png": "/Semo-Electrical-Engineering/static/media/Semo_logo2.fe7252b274f1896dc8bf.png",
@@ -10,11 +10,11 @@
     "static/media/train.jpg": "/Semo-Electrical-Engineering/static/media/train.d3095e928398889dfe52.jpg",
     "index.html": "/Semo-Electrical-Engineering/index.html",
     "main.a5f7ade7.css.map": "/Semo-Electrical-Engineering/static/css/main.a5f7ade7.css.map",
-    "main.bbcdb70b.js.map": "/Semo-Electrical-Engineering/static/js/main.bbcdb70b.js.map",
+    "main.cfca89d7.js.map": "/Semo-Electrical-Engineering/static/js/main.cfca89d7.js.map",
     "787.ab93ecc4.chunk.js.map": "/Semo-Electrical-Engineering/static/js/787.ab93ecc4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a5f7ade7.css",
-    "static/js/main.bbcdb70b.js"
+    "static/js/main.cfca89d7.js"
   ]
 }
